@@ -5,7 +5,6 @@ This is a repository for exploring and practicing UI components (HTML, CSS, JS: 
 * Clone the repo with
 ```
 github.com/jayysng/UI-exploration.git
-
 ```
 
 # For HTML/CSS/JS
